@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FungusExamples/Sherlock/TheExperiment.unity
+- path: Assets/BIKL/Start.unity
   isLoaded: 1
   isActive: 1
